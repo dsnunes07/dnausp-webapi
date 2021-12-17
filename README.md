@@ -34,3 +34,7 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+Trabalho realizado para a disciplina Trabalho de Formatura Supervisionado (MAC0499) do IME - USP
+
+[Página do trabalho](https://www.linux.ime.usp.br/~dsnunes/mac499/)
+
